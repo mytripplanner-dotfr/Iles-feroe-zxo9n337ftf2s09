@@ -1,0 +1,207 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Douce au Cœur de l'Atlantique Nord",
+  "budget_total": "Environ 900-950 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "2h45 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Vágar",
+      "legende": "Après un vol direct, atterrissez sur l'île de Vágar, porte d'entrée de cet archipel mystérieux. Prenez le temps de récupérer votre voiture de location et de vous imprégner des paysages côtiers avant de rejoindre votre hébergement. Une première balade douce vous attend pour une immersion immédiate.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupération de votre voiture de location, essentielle pour explorer les îles.",
+        "🚶‍♂️ <strong>Balade au lac Sørvágsvatn (Leitisvatn)</strong>: Découvrez le \"lac suspendu\" au-dessus de l'océan, une illusion d'optique naturelle parfaite pour une première approche relaxante.",
+        "🛏️ <strong>Installation à Tórshavn</strong>: Prenez vos quartiers dans la capitale, une petite ville charmante aux maisons colorées et aux toits en herbe."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        },
+        {
+          "nom_recherche": "Lac Sørvágsvatn, Vágar",
+          "categorie": "Lac",
+          "coords": { "lat": 62.046, "lng": -7.221 }
+        },
+        {
+          "nom_recherche": "Tórshavn",
+          "categorie": "Ville",
+          "coords": { "lat": 62.010, "lng": -6.770 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer les îles à votre rythme. Réservez à l'avance, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Villages Pittoresques et Cascades Majestueuses",
+      "legende": "Aujourd'hui, plongez dans la carte postale des Féroé avec des villages isolés et des paysages à couper le souffle. Des maisons aux toits d'herbe aux cascades dévalant les falaises, chaque instant est une invitation à la contemplation et à la sérénité. Préparez-vous à des vues inoubliables.",
+      "lieu": "Streymoy & Eysturoy",
+      "activites": [
+        "🏡 <strong>Visite du village de Saksun</strong>: Un hameau isolé niché dans une crique, célèbre pour ses maisons traditionnelles aux toits d'herbe et son lagon paisible.",
+        "🌊 <strong>Découverte de la cascade de Fossá</strong>: Admirez la plus haute cascade des Féroé, qui se jette en deux paliers impressionnants directement dans l'océan.",
+        "🚶‍♀️ <strong>Balade à Tjørnuvík</strong>: Profitez d'une promenade sur la plage de sable noir de ce village pittoresque, offrant une vue imprenable sur les rochers \"Risin et Kellingin\"."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Saksun, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.256, "lng": -7.185 }
+        },
+        {
+          "nom_recherche": "Fossá, Streymoy",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.285, "lng": -7.087 }
+        },
+        {
+          "nom_recherche": "Tjørnuvík, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.296, "lng": -7.156 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil photo",
+          "texte": "Les lumières changeantes des Féroé offrent des opportunités photographiques uniques. Soyez prêt à capturer l'instant."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛵",
+      "titre": "Exploration Maritime et Histoire Locale",
+      "legende": "Aujourd'hui, l'océan vous appelle pour une expérience mémorable le long des falaises majestueuses. L'après-midi sera dédiée à l'histoire et à la culture féroïenne, avec la découverte d'un site historique majeur. Une journée équilibrée entre nature sauvage et patrimoine.",
+      "lieu": "Vestmanna & Kirkjubøur",
+      "activites": [
+        "⛵ <strong>Excursion en bateau aux falaises de Vestmanna</strong>: Naviguez au pied d'immenses falaises abritant des milliers d'oiseaux marins, une expérience immersive et relaxante.",
+        "⛪ <strong>Visite de Kirkjubøur</strong>: Explorez le centre historique et culturel des Féroé, avec sa cathédrale inachevée de Magnus et sa ferme royale datant du 11ème siècle.",
+        "🚶‍♂️ <strong>Détente à Tórshavn</strong>: Profitez d'une soirée tranquille dans la capitale, peut-être avec un dîner dans un restaurant local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vestmanna Tourist Centre, Vestmanna",
+          "categorie": "Centre touristique",
+          "coords": { "lat": 62.155, "lng": -7.166 }
+        },
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.994, "lng": -6.793 }
+        },
+        {
+          "nom_recherche": "Tórshavn",
+          "categorie": "Ville",
+          "coords": { "lat": 62.010, "lng": -6.770 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Vêtements",
+          "texte": "Même en été, le vent peut être frais en mer. Prévoyez des couches chaudes et imperméables pour l'excursion en bateau."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de vos dernières heures pour flâner dans les rues de Tórshavn, dénicher quelques souvenirs ou simplement savourer un dernier café avec vue. Un dernier aperçu des paysages avant de reprendre la route vers l'aéroport, la tête remplie de souvenirs inoubliables de cet archipel unique.",
+      "lieu": "Tórshavn & Vágar",
+      "activites": [
+        "🛍️ <strong>Shopping de souvenirs à Tórshavn</strong>: Trouvez des articles en laine féroïenne ou des créations locales pour ramener un morceau des îles chez vous.",
+        "☕ <strong>Café et vue sur le port de Tórshavn</strong>: Détendez-vous dans un café local et admirez l'animation du port avant de partir.",
+        "🛫 <strong>Départ de l'aéroport de Vágar (FAE)</strong>: Restitution de la voiture de location et vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tórshavn",
+          "categorie": "Ville",
+          "coords": { "lat": 62.010, "lng": -6.770 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez environ 45 minutes de route entre Tórshavn et l'aéroport de Vágar, plus le temps pour la restitution du véhicule."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 355 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 150 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 160 €/pers (40€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (3 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 70 €/pers (excursion bateau Vestmanna)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août", "symbole": "☀️" },
+    { "titre": "Mai et Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures estivales varient entre 10 et 15°C. Prévoyez des vêtements chauds, coupe-vent et imperméables, même en été.", "symbole": "🧥" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK), mais la Couronne Féroïenne (FOK) est aussi utilisée. Les cartes de crédit sont largement acceptées.", "symbole": "💳" },
+    { "titre": "La conduite se fait à droite. Les tunnels sous-marins sont payants (environ 100 DKK l'aller-retour).", "symbole": "🚗" },
+    { "titre": "Le réseau mobile est excellent. Le Wi-Fi est disponible dans la plupart des hébergements et cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐑",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les moutons sont plus nombreux que les habitants aux Féroé ! On compte environ 80 000 moutons pour 54 000 habitants, ce qui explique le nom de l'archipel : \"Îles aux Moutons\"."
+    },
+    {
+      "symbole": "🌳",
+      "titre": "Insolite",
+      "texte": "Il n'y a pratiquement pas d'arbres indigènes aux Féroé. Le paysage est dominé par l'herbe, la bruyère et les rochers, offrant des panoramas uniques et dégagés."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Skerpikjøt",
+      "description": "De l'agneau séché à l'air libre pendant plusieurs mois, offrant une saveur intense et unique, souvent servi en fines tranches."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Ræst Kjøt",
+      "description": "Un plat traditionnel à base d'agneau fermenté, au goût très prononcé et caractéristique, souvent accompagné de pommes de terre et de légumes racines."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Fiskur",
+      "description": "Le poisson frais est omniprésent. Goûtez au poisson séché (tørkaður fiskur) ou au poisson frais du jour, souvent préparé simplement pour en sublimer le goût."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-06-10/2026-06-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-26102/Faroe%20Islands/Streymoy/T%C3%B3rshavn", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "62°N Car Rental", "url": "https://www.62n.fo/", "symbole": "🚗" }
+  ]
+}
